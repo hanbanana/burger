@@ -4,4 +4,4 @@
 2. Select a burger you would like to **Devour**
 
 
-!(/screenshots/screenshot.png)
+![Initial Customer](./screenshots/screenshot.png)
