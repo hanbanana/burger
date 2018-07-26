@@ -1,5 +1,5 @@
 body {
-  background-color: #f7d173 !important;
+  background: url("../img/burger-img.jpg");
 }
 
 ul {
@@ -15,4 +15,18 @@ li {
 .form-group {
   padding: 5px;
   margin: 5px;
+}
+
+.text-center {
+  color: Blue;
+}
+
+#headLine {
+  font-family: 'Hanalei Fill', cursive;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+#head-letter {
+  font-size: 10rem;
 }
